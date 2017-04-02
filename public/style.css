@@ -1,0 +1,55 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 25px;
+  background-color: #A6B7C1;
+}
+
+h1 {
+  font-weight: bold;
+  color: #F3EFF5;
+}
+
+h3 {
+  font-weight: bold;
+  color: #F3EFF5;
+}
+
+.about {
+  color: #F3EFF5;
+}
+
+p {
+  color: black;
+}
+
+.nav-wrapper {
+  background-color: #201d23;
+}
+
+.nav {
+  height: 100px;
+}
+
+nav ul li:hover { 
+  background-color: #8693AB; 
+}
+
+.card {
+  width: 400px;
+  height: 400px;
+}
+
+.Natives .card {
+  width: 400px;
+  height: 400px;
+}
+
+.AfricanAmericans .card {
+  width: 400px;
+  height: 400px;
+}
+
+.JapaneseAmericans .card {
+  width: 400px;
+  height: 400px;
+}
